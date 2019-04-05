@@ -26,7 +26,4 @@ class Patient
       apointment.doctor
     end
   end
-
-
-
 end
