@@ -6,6 +6,6 @@ class Patient
     @@all
   end
 
-  def initialize
+  def initialize(date, doctor, patient)
 
 end
