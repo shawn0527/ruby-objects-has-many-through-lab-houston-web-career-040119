@@ -7,5 +7,7 @@ class Patient
   end
 
   def initialize(date, doctor, patient)
+    @date = date
+    all
 
 end
