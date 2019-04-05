@@ -1,5 +1,7 @@
 class Patient
 
+  attr_reader :date, :doctor, :patient
+
   @@all = []
 
   def self.all
